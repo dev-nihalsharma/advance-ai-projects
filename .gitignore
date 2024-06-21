@@ -1,0 +1,3 @@
+/imagecaptioning/flicker8k
+/imagecaptioning/model_checkpoint.pth.tar
+/imagecaptioning/__pycache__
